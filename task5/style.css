@@ -1,0 +1,6 @@
+button {
+    text-align: center;
+    text-decoration: dashed;
+    background-color: rgb(182, 165, 144);
+    border-radius: 5px;
+}

@@ -1,0 +1,10 @@
+p {
+    color: rgb(11, 100, 19);
+    text-align: center;
+    text-decoration: underline overline;
+    font-size: 1.3em;
+}
+code {
+    color: rgb(123, 124, 27);
+    font-size: 1.1em;
+}
